@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ntiounteab.github.io/sitemap.html.gz
+Sitemap: https://ntiounteab.github.io/app/sitemap.html.gz
+Sitemap: https://ntiounteab.github.io/assets/sitemap.html.gz
+Sitemap: https://ntiounteab.github.io/css/sitemap.html.gz
+Sitemap: https://ntiounteab.github.io/includes/sitemap.html.gz
+Sitemap: https://ntiounteab.github.io/item/sitemap.html.gz
+Sitemap: https://ntiounteab.github.io/src/sitemap.html.gz
